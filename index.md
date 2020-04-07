@@ -18,12 +18,12 @@ The landing page is the top-level URL for the Cram Connect website.
 The user can login in to manage their account and interact with the Cram Connect community.
 ![](images/mockup1-signIn.jpg)
 
-## Example Study Location
+### Example Study Location
 The user can take a look at the study location and add notifications.
 ![](images/mockup1-locationProfile1.jpg)
 ![](images/mockup1-locationProfile2.jpg)
 
-## Search
+### Search
 The search page will allow each user to filter study spots to find the best study environment.
 ![](images/mockup1-find1.jpg)
 
