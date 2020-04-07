@@ -32,6 +32,11 @@ The user can take a look at each study location and add notifications.
 ### Search
 The search page will allow each user to filter study spots to find the best study environment.
 ![](images/mockup1-find1.jpg)
+![](images/mockup1-find2.jpg)
+
+### Favorites
+User can view the status of their selected favorite locations.
+![](images/mockup1-favorites.jpg)
 
 ### User Profile
 The User can edit their profile with their information and preferences.
