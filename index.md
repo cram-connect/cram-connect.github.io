@@ -19,9 +19,13 @@ The user can login in to manage their account and interact with the Cram Connect
 ![](images/mockup1-signIn.jpg)
 
 ## Example Study Location
-The user can take a look at the study location and add notifications. 
-![](images/mockup1-examplePage.jpg)
-![](images/mockup1-examplePage2.jpg)
+The user can take a look at the study location and add notifications.
+![](images/mockup1-locationProfile1.jpg)
+![](images/mockup1-locationProfile2.jpg)
+
+## Search
+The search page will allow each user to filter study spots to find the best study environment.
+![](images/mockup1-find1.jpg)
 
 ### User Profile
 The User can edit their profile with their information and preferences.
