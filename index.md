@@ -19,7 +19,7 @@ The user can login in to manage their account and interact with the Cram Connect
 ![](images/mockup1-signIn.jpg)
 
 ### Example Study Location
-The user can take a look at the study location and add notifications.
+The user can take a look at each study location and add notifications.
 ![](images/mockup1-locationProfile1.jpg)
 ![](images/mockup1-locationProfile2.jpg)
 
