@@ -1,5 +1,6 @@
 ## Table of Contents
 * [Description](#description)
+* [Goals](#goals)
 * [User Guide](#user-guide)
 
 ## Description
@@ -7,8 +8,13 @@
 
 *The solution:* A website that will allow students to post and rate study spots throughout the UH Manoa campus and the surrounding areas so that other students become aware of possible study spots. The entry for each location will list hours, capabilities, capacity of the location, and accessibility to different types of students. In addition, there is a “real-time” feature, where students can login and provide time-stamped notifications about the current state of the study space. This can inform other students about whether the space is noisy, or crowded, or even quiet and empty.
 
+## Cram Connect Goal
+To provide a intuitive user interface that can provide an efficient system to allow students to discover and rate study spots in and around the UH Manoa campus.
+
+The system should eventually provide a user sign-in system that allows the user to edit their preferences, filter out study spaces to find an appealing location, and receive real time notifications about the current state of study spaces. After the initial development of our website, we hope to add additional features to Cram Connect, including maps information about study spaces and a news feed of the latest updates on users' favorite locations..
+
 ## User Guide
-User guide provides a breakdown of the Cram Connect website and its proposed page structures.
+User guide, currently a mockup, provides a breakdown of the Cram Connect website and its proposed page structures.
 
 ### Landing page
 The landing page is the top-level URL for the Cram Connect website.
