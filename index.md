@@ -8,7 +8,7 @@
 *The solution:* A website that will allow students to post and rate study spots throughout the UH Manoa campus and the surrounding areas so that other students become aware of possible study spots. The entry for each location will list hours, capabilities, capacity of the location, and accessibility to different types of students. In addition, there is a “real-time” feature, where students can login and provide time-stamped notifications about the current state of the study space. This can inform other students about whether the space is noisy, or crowded, or even quiet and empty.
 
 ## User Guide
-User guide provides a break down of Cram Connect website and its proposed page structures.
+User guide provides a breakdown of the Cram Connect website and its proposed page structures.
 
 ### Landing page
 The landing page is the top-level URL for the Cram Connect website.
