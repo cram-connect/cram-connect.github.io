@@ -2,6 +2,7 @@
 * [Description](#description)
 * [Goals](#goals)
 * [User Guide](#user-guide)
+* [Development Team](#development-team)
 
 ## Description
 *The problem:* Students typically limit themselves to only studying consistent locations when there are hundreds of available study spots all over campus. Sinclair or Hamilton library are the “go-to” study spots, but both can get busy throughout the week and especially during finals week. There are many spots available to students that are not utilized because students are not aware of it.
@@ -40,3 +41,9 @@ User can view the status of their selected favorite locations.
 ### User Profile
 The User can edit their profile with their information and preferences.
 ![](images/mockup1-userProfile.jpg)
+
+## Meet the Development Team
+* [Marionne Casipit](https://marionne.github.io/)
+* [Willy Chang](https://willychangx.github.io/)
+* [Alysha Fujitani](https://alyshafujitani.github.io/)
+* [Matthew Sahara](https://saharama.github.io/)
