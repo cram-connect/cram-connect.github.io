@@ -36,7 +36,7 @@ The user can take a look at each study location and add notifications.
 
 ### Search
 The search page will allow each user to filter study spots to find the best study environment.
-![](images/mockup1/mockup1-search.JPG)
+![](images/mockup1/mockup1-searchPage.JPG)
 
 ### Favorites
 User can view the status of their selected favorite locations.
@@ -44,7 +44,7 @@ User can view the status of their selected favorite locations.
 
 ### User Profile
 The user can edit their profile with their information and preferences.
-![](images/mockup1/mockup1-userProfile.JPG)
+![](images/mockup1/mockup1-user.JPG)
 
 ## Meet the Development Team
 * [Marionne Casipit](https://marionne.github.io/)
