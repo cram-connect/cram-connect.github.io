@@ -19,28 +19,28 @@ User guide, currently a mockup, provides a breakdown of the Cram Connect website
 
 ### Landing page
 The landing page is the top-level URL for the Cram Connect website.
-![](images/mockup1-landing.jpg)
+![](images/mockup1/mockup1-landing.jpg)
 
 ### Sign in
 The user can login in to manage their account and interact with the Cram Connect community.
-![](images/mockup1-signIn.jpg)
+![](images/mockup1/mockup1-signIn.jpg)
 
 ### Example Study Location
 The user can take a look at each study location and add notifications.
-![](images/mockup1-locationProfile1.jpg)
-![](images/mockup1-locationProfile2.jpg)
+![](images/mockup1/mockup1-locationProfile1.jpg)
+![](images/mockup1/mockup1-locationProfile2.jpg)
 
 ### Search
 The search page will allow each user to filter study spots to find the best study environment.
-![](images/mockup1-search.jpg)
+![](images/mockup1/mockup1-search.jpg)
 
 ### Favorites
 User can view the status of their selected favorite locations.
-![](images/mockup1-favorites.jpg)
+![](images/mockup1/mockup1-favorites.jpg)
 
 ### User Profile
 The User can edit their profile with their information and preferences.
-![](images/mockup1-userProfile.jpg)
+![](images/mockup1/mockup1-userProfile.jpg)
 
 ## Meet the Development Team
 * [Marionne Casipit](https://marionne.github.io/)
