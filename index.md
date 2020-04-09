@@ -48,10 +48,17 @@ The user can edit their profile with their information and preferences.
 
 ## Meet the Development Team
 * [Marionne Casipit](https://marionne.github.io/)
-![Marionne Casipit](images/dev/marionne.png)
+
+<div text-align="center">
+   <img src="images/dev/marionne.jpg" width="150" height="150">
+   <p>Marionne Casipit is an undergraduate at the University of Hawaii at Manoa pursuing a</p>
+   <p>Bachelor's in Computer Engineering, expected to graduate in the Spring of 2020.</p>
+</div>
 * [Willy Chang](https://willychangx.github.io/)
+
 ![Willy Chang](images/dev/willy.jpg)
 * [Alysha Fujitani](https://alyshafujitani.github.io/)
+
 ![Alysha Fujitani](images/dev/AlyshaFujitani.jpg)
 * [Matthew Sahara](https://saharama.github.io/)
 ![Matthew Sahara](images/dev/matt.jpg)
