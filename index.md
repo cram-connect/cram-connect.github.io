@@ -27,7 +27,7 @@ The user can login in to manage their account and interact with the Cram Connect
 
 ### Register
 The user can create a new account by filling in the appropriate fields.
-![](images/mockup1/mockup1-register.jpg)
+![](images/mockup1/mockup1-register.JPG)
 
 ### Example Study Location
 The user can take a look at each study location and add notifications.
@@ -36,7 +36,7 @@ The user can take a look at each study location and add notifications.
 
 ### Search
 The search page will allow each user to filter study spots to find the best study environment.
-![](images/mockup1/mockup1-search.jpg)
+![](images/mockup1/mockup1-search.JPG)
 
 ### Favorites
 User can view the status of their selected favorite locations.
@@ -44,22 +44,42 @@ User can view the status of their selected favorite locations.
 
 ### User Profile
 The user can edit their profile with their information and preferences.
-![](images/mockup1/mockup1-userProfile.jpg)
+![](images/mockup1/mockup1-userProfile.JPG)
 
 ## Meet the Development Team
 * [Marionne Casipit](https://marionne.github.io/)
 
-<div text-align="center">
+<p align="center">
    <img src="images/dev/marionne.jpg" width="150" height="150">
    <p>Marionne Casipit is an undergraduate at the University of Hawaii at Manoa pursuing a</p>
    <p>Bachelor's in Computer Engineering, expected to graduate in the Spring of 2020.</p>
-</div>
+</p>
+
 * [Willy Chang](https://willychangx.github.io/)
 
-![Willy Chang](images/dev/willy.jpg)
+<p align="center">
+   <img src="images/dev/willy.jpg" width="150" height="150">
+   <p>Willy Chang is an undergraduate at the University of Hawaii at Manoa pursuing a</p>
+   <p>Bachelor's in Computer Engineering, expected to graduate in the Spring of 2021.</p>
+</p>
+
+
 * [Alysha Fujitani](https://alyshafujitani.github.io/)
 
 ![Alysha Fujitani](images/dev/AlyshaFujitani.jpg)
+<p align="center">
+   <img src="images/dev/AlyshaFujitani.jpg" width="150" height="150">
+   <p>Alysha Fujitani is an undergraduate at the University of Hawaii at Manoa pursuing a</p>
+   <p>Bachelor's in Computer Engineering, expected to graduate in the Spring of 2020.</p>
+</p>
+
 * [Matthew Sahara](https://saharama.github.io/)
-![Matthew Sahara](images/dev/matt.jpg)
+
+<p align="center">
+   <img src="images/dev/marionne.jpg" width="150" height="150">
+   <p>Matthew Sahara is an undergraduate at the University of Hawaii at Manoa pursuing a</p>
+   <p>Bachelor's in Electrical Engineering with a focus on Electro-Physics, expected to</p>
+   <p>graduate in the Fall of 2020.</p>
+</p>
+
 
