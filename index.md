@@ -25,6 +25,10 @@ The landing page is the top-level URL for the Cram Connect website.
 The user can login in to manage their account and interact with the Cram Connect community.
 ![](images/mockup1/mockup1-signIn.jpg)
 
+### Register
+The user can create a new account by filling in the appropriate fields.
+![](images/mockup1/mockup1-register.jpg)
+
 ### Example Study Location
 The user can take a look at each study location and add notifications.
 ![](images/mockup1/mockup1-locationProfile1.jpg)
@@ -39,11 +43,16 @@ User can view the status of their selected favorite locations.
 ![](images/mockup1/mockup1-favorites.jpg)
 
 ### User Profile
-The User can edit their profile with their information and preferences.
+The user can edit their profile with their information and preferences.
 ![](images/mockup1/mockup1-userProfile.jpg)
 
 ## Meet the Development Team
 * [Marionne Casipit](https://marionne.github.io/)
+![Marionne Casipit](images/dev/marionne.png)
 * [Willy Chang](https://willychangx.github.io/)
+![Willy Chang](images/dev/willy.jpg)
 * [Alysha Fujitani](https://alyshafujitani.github.io/)
+![Alysha Fujitani](images/dev/AlyshaFujitani.jpg)
 * [Matthew Sahara](https://saharama.github.io/)
+![Matthew Sahara](images/dev/matt.jpg)
+
