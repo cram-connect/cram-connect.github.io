@@ -51,35 +51,29 @@ The user can edit their profile with their information and preferences.
 
 <p align="center">
    <img src="images/dev/marionne.jpg" width="150" height="150">
-   <p>Marionne Casipit is an undergraduate at the University of Hawaii at Manoa pursuing a</p>
-   <p>Bachelor's in Computer Engineering, expected to graduate in the Spring of 2020.</p>
+   <a>Marionne Casipit is an undergraduate at the University of Hawaii at Manoa pursuing a Bachelor's in Computer Engineering, expected to graduate in the Spring of 2020.</a>
 </p>
 
 * [Willy Chang](https://willychangx.github.io/)
 
 <p align="center">
    <img src="images/dev/willy.jpg" width="150" height="150">
-   <p>Willy Chang is an undergraduate at the University of Hawaii at Manoa pursuing a</p>
-   <p>Bachelor's in Computer Engineering, expected to graduate in the Spring of 2021.</p>
+   <a>Willy Chang is an undergraduate at the University of Hawaii at Manoa pursuing a Bachelor's in Computer Engineering, expected to graduate in the Spring of 2021.</a>
 </p>
 
 
 * [Alysha Fujitani](https://alyshafujitani.github.io/)
 
-![Alysha Fujitani](images/dev/AlyshaFujitani.jpg)
 <p align="center">
    <img src="images/dev/AlyshaFujitani.jpg" width="150" height="150">
-   <p>Alysha Fujitani is an undergraduate at the University of Hawaii at Manoa pursuing a</p>
-   <p>Bachelor's in Computer Engineering, expected to graduate in the Spring of 2020.</p>
+   <a>Alysha Fujitani is an undergraduate at the University of Hawaii at Manoa pursuing a Bachelor's in Computer Engineering, expected to graduate in the Spring of 2020.</a>
 </p>
 
 * [Matthew Sahara](https://saharama.github.io/)
 
 <p align="center">
-   <img src="images/dev/marionne.jpg" width="150" height="150">
-   <p>Matthew Sahara is an undergraduate at the University of Hawaii at Manoa pursuing a</p>
-   <p>Bachelor's in Electrical Engineering with a focus on Electro-Physics, expected to</p>
-   <p>graduate in the Fall of 2020.</p>
+   <img src="images/dev/matt.jpg" width="150" height="150">
+   <a>Matthew Sahara is an undergraduate at the University of Hawaii at Manoa pursuing a Bachelor's in Electrical Engineering with a focus on Electro-Physics, expected to graduate in the Fall of 2020.</a>
 </p>
 
 
