@@ -3,9 +3,9 @@
 ## Table of Contents
 * [Description](#description)
 * [Goals](#goals)
-* [Milestones](#milestones)
 * [Galaxy Deployment](#galaxy-deployment)
 * [GitHub Organization](#github-organization)
+* [Milestones](#milestones)
 * [User Guide](#user-guide)
 * [Development Team](#meet-the-development-team)
 
@@ -19,11 +19,6 @@ To provide a intuitive user interface that can provide an efficient system to al
 
 The system should eventually provide a sign-in system that allows the user to edit their preferences, filter out study spaces to find an appealing location, and receive real time notifications about the current state of study spaces. After the initial development of our website, we hope to add additional features to Cram Connect, including maps information about study spaces and a news feed of the latest updates on users' favorite locations.
 
-## Milestones
-* [M1 Project: Milestone 1](https://github.com/cram-connect/cram-connect/projects/2)
-* [M2 Project: Milestone 2](https://github.com/cram-connect/cram-connect/projects/1)
-* [M3 Project: Milestone 3]
-
 ## Galaxy Deployment
 Cram Connect is deployed using Galaxy and be accessed through this [link](http://cram-connect.meteorapp.com/#/), or by pasting the following in the web browser:
 ```
@@ -36,8 +31,17 @@ The GitHub organization for Cram Connect can be accessed [here](https://github.c
 https://github.com/cram-connect
 ```
 
+## Milestones
+* [M1 Project: Milestone 1](https://github.com/cram-connect/cram-connect/projects/2)
+* [M2 Project: Milestone 2](https://github.com/cram-connect/cram-connect/projects/1)
+* [M3 Project: Milestone 3]
+
+### Milestone 1
+The Cram Connect system has been deployed to Galaxy. We currently have a landing page, as shown below. It can be accessed at: [http://cram-connect.meteorapp.com/#/](http://cram-connect.meteorapp.com/#/)
+![](images/M1/landing.jpg)
+
 ## User Guide
-User guide, currently a mockup, provides a breakdown of the Cram Connect website and its proposed page structures.
+Our user guide, currently containing page mockups, provides a breakdown of the Cram Connect website and its proposed page structures.
 
 ### Landing page
 The landing page is the top-level URL for the Cram Connect website.
