@@ -51,11 +51,11 @@ The Cram Connect system has been deployed to Galaxy. We now have a sign in page,
 Our user guide, contains the current pages and functionality of our Cram Connect web application.
 
 ### Landing page
-The landing page is the top-level URL for the Cram Connect website.
+The landing page is the top-level URL for the Cram Connect website. Users can opt to sign in using the user icon button located at the top right corner of the screen.
 ![](images/M1/landing.jpg)
 
 ### Sign in
-The user can login in to manage their account and interact with the Cram Connect community.
+The user can login in to manage their account and interact with the Cram Connect community. If the user does not have an account, they can opt to register for an account with.
 ![](images/M2/signin.JPG)
 
 ### Register
@@ -63,7 +63,7 @@ The user can create a new account by filling in the appropriate fields.
 ![](images/M2/register.JPG)
 
 ### Random Study Location
-The user can take a look at a random study location. This is a great way to learn about new places that users may be interested in, to truly find a study spot that is a perfect fit.
+The user can take a look at a random study location by clicking Location in the NavBar. This is a great way to learn about new places that users may be interested in, to truly find a study spot that is a perfect fit.
 ![](images/M2/locationPage.JPG)
 
 ### Add Location
@@ -71,15 +71,15 @@ Currently, users are able to add new locations using the Add Location page. This
 ![](images/M2/addLocation.jpg)
 
 ### User Profile
-The user can edit their profile with their information and preferences.
+The user can edit their profile with their information and preferences. They are able to edit their name, major, and image. In addition, they can choose their favorite study spots and top study spot qualities from a MultiSelectField with lists of the current spots and qualities.
 ![](images/M2/editProfile.jpg)
 
 ### In the Works: Search
-In the future, the search page will allow each user to filter study spots to find the best study environment.
+In the future, the search page will allow each user to filter study spots to find the best study environment. The following picture is a mockup.
 ![](images/mockup1/mockup1-searchPage.JPG)
 
 ### In the Works: Favorites
-Soon, users will be able to view the status of their selected favorite locations. We plan to implement a real-time notification feature. This will later serve as the Home page for users.
+Soon, users will be able to view the status of their selected favorite locations. We plan to implement a real-time notification feature. This will later serve as the Home page for users. The following picture is a mockup.
 ![](images/mockup1/mockup1-favorites.jpg)
 
 ## Developer Guide
