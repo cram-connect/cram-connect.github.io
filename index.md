@@ -7,6 +7,7 @@
 * [GitHub Organization](#github-organization)
 * [Milestones](#milestones)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Development Team](#meet-the-development-team)
 
 ## Overview 
