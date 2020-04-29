@@ -1,7 +1,7 @@
 <title>Cram Connect</title>
 
 ## Table of Contents
-* [Description](#description)
+* [Overview](#overview)
 * [Goals](#goals)
 * [Galaxy Deployment](#galaxy-deployment)
 * [GitHub Organization](#github-organization)
@@ -9,10 +9,8 @@
 * [User Guide](#user-guide)
 * [Development Team](#meet-the-development-team)
 
-## Description
-*The problem:* Students typically limit themselves to only studying consistent locations when there are hundreds of available study spots all over campus. Sinclair or Hamilton library are the “go-to” study spots, but both can get busy throughout the week and especially during finals week. There are many spots available to students that are not utilized because students are not aware of it.
-
-*The solution:* A website that will allow students to post and rate study spots throughout the UH Manoa campus and the surrounding areas so that other students become aware of possible study spots. The entry for each location will list hours, capabilities, capacity of the location, and accessibility to different types of students. In addition, there is a “real-time” feature, where students can login and provide time-stamped notifications about the current state of the study space. This can inform other students about whether the space is noisy, or crowded, or even quiet and empty.
+## Overview 
+Cram connect a website that will allow students to post and rate study spots throughout the UH Manoa campus and the surrounding areas so that other students become aware of possible study spots. The entry for each location will list hours, capabilities, capacity of the location, and accessibility to different types of students. In addition, there is a “real-time” feature, where students can login and provide time-stamped notifications about the current state of the study space. This can inform other students about whether the space is noisy, or crowded, or even quiet and empty.
 
 ## Goals
 To provide a intuitive user interface that can provide an efficient system to allow students to discover and rate study spots in and around the UH Manoa campus.
@@ -34,11 +32,16 @@ https://github.com/cram-connect
 ## Milestones
 * [M1 Project: Milestone 1](https://github.com/cram-connect/cram-connect/projects/2)
 * [M2 Project: Milestone 2](https://github.com/cram-connect/cram-connect/projects/1)
-* [M3 Project: Milestone 3]
+* [M3 Project: Milestone 3](https://github.com/cram-connect/cram-connect/projects/3)
 
 ### Milestone 1
 The Cram Connect system has been deployed to Galaxy. We currently have a landing page, as shown below. It can be accessed at: [http://cram-connect.meteorapp.com/#/](http://cram-connect.meteorapp.com/#/)
 ![](images/M1/landing.jpg)
+
+### Milestone 2
+The Cram Connect system has been deployed to Galaxy. We now have a sign in page and register page, as shown below. It can be accessed at: [http://cram-connect.meteorapp.com/#/](http://cram-connect.meteorapp.com/#/)
+![](images/M2/signin.JPG)
+![](images/M2/register.JPG)
 
 ## User Guide
 Our user guide, currently containing page mockups, provides a breakdown of the Cram Connect website and its proposed page structures.
@@ -71,6 +74,29 @@ User can view the status of their selected favorite locations.
 ### User Profile
 The user can edit their profile with their information and preferences.
 ![](images/mockup1/mockup1-user.JPG)
+
+## Developer Guide 
+Our developer guide, will guide the developer into downloading, installing, running, and modifying the system. 
+
+First step is to download and [install meteor](https://www.meteor.com/install).
+
+Second, go to [https://github.com/cram-connect/cram-connect](https://github.com/cram-connect/cram-connect) and download a copy Cram Connect. 
+
+Third, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+```
+$ meteor npm install
+```
+Fourth, once all the libraries are installed the application can be run with: 
+```
+$ meteor npm run start
+```
+If the system runs with no errors, the application will be available at  [http://localhost:3000]( http://localhost:3000)
+
+### ESLint
+You can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
+```
+$ meteor npm run lint
+```
 
 ## Meet the Development Team
 * [Marionne Casipit](https://marionne.github.io/)
