@@ -40,9 +40,10 @@ The Cram Connect system has been deployed to Galaxy. We currently have a landing
 ![](images/M1/landing.jpg)
 
 ### Milestone 2
-The Cram Connect system has been deployed to Galaxy. We now have a sign in page and register page, as shown below. It can be accessed at: [http://cram-connect.meteorapp.com/#/](http://cram-connect.meteorapp.com/#/)
+The Cram Connect system has been deployed to Galaxy. We now have a sign in page, register page, and a profile page as shown below. It can be accessed at: [http://cram-connect.meteorapp.com/#/](http://cram-connect.meteorapp.com/#/)
 ![](images/M2/signin.JPG)
 ![](images/M2/register.JPG)
+![](images/M2/editProfile.jpg)
 
 ## User Guide
 Our user guide, currently containing page mockups, provides a breakdown of the Cram Connect website and its proposed page structures.
