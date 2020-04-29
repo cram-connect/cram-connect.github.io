@@ -55,7 +55,7 @@ The landing page is the top-level URL for the Cram Connect website. Users can op
 ![](images/M1/landing.jpg)
 
 ### Sign in
-The user can login in to manage their account and interact with the Cram Connect community. If the user does not have an account, they can opt to register for an account with.
+The user can log in to manage their account and interact with the Cram Connect community. If the user does not have an account, they can opt to register for an account with the Register Now button.
 ![](images/M2/signin.JPG)
 
 ### Register
@@ -63,15 +63,15 @@ The user can create a new account by filling in the appropriate fields.
 ![](images/M2/register.JPG)
 
 ### Random Study Location
-The user can take a look at a random study location by clicking Location in the NavBar. This is a great way to learn about new places that users may be interested in, to truly find a study spot that is a perfect fit.
+The user can take a look at a random study location by clicking *Random Location* in the NavBar. This is a great way to learn about new places that users may be interested in, to truly find a study spot that is a perfect fit.
 ![](images/M2/locationPage.JPG)
 
 ### Add Location
-Currently, users are able to add new locations using the Add Location page. This may be restricted to administrators in the future.
+Currently, users are able to add new locations using *Add a Spot* located in the NavBar. This may be restricted to administrators in the future.
 ![](images/M2/addLocation.jpg)
 
 ### User Profile
-The user can edit their profile with their information and preferences. They are able to edit their name, major, and image. In addition, they can choose their favorite study spots and top study spot qualities from a MultiSelectField with lists of the current spots and qualities.
+The user can edit their profile with their information and preferences. They are able to edit their name, major, and image. In addition, they can choose their favorite study spots and top study spot qualities from a MultiSelectField with lists of the currently available spots and qualities.
 ![](images/M2/editProfile.jpg)
 
 ### In the Works: Search
