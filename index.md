@@ -6,6 +6,7 @@
 * [Galaxy Deployment](#galaxy-deployment)
 * [GitHub Organization](#github-organization)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Milestones](#milestones)
 * [Developer Guide](#developer-guide)
 * [Community Feedback](#community-feedback)
@@ -43,13 +44,15 @@ The user can login in to manage their account and interact with the Cram Connect
 The user can create a new account by filling in the appropriate fields.
 ![](images/M2/register.JPG)
 
+### Search
+The search page will allow each user to search for study spots to find the best study environment.
+![](images/M3/search.png)
+
+NOTE: The filter on the left side does not currently work, but the search and selection of the cards to go to the location are functional.
+
 ### Study Location
 The user can take a look at each study location and find out more information about them.
 ![](images/M3/location.png)
-
-### Search
-The search page will allow each user to filter study spots to find the best study environment.
-![](images/M3/search.png)
 
 ### Favorites
 User can view the status of their selected favorite locations.
@@ -58,6 +61,12 @@ User can view the status of their selected favorite locations.
 ### User Profile
 The user can edit their profile with their information and preferences.
 ![](images/M2/editProfile.jpg)
+
+### Discover
+The user can find a random study location that is not in their favorites.
+![](images/M3/discover.png)
+
+NOTE: The user can favorite the site when accessed through the discover page, but the button will not update in color.
 
 ## Milestones
 Each milestone project page can be accessed with the links below.
@@ -117,7 +126,7 @@ $ meteor npm run lint
 ```
 
 ## Community Feedback
-Due to time and our free trial of Galaxy expiring, we were not able to have 5 community members try out our application. 
+The general community sentiment regarding out website is that the concept and current features implemented are effective. There were mixed reactions in regards to the color palette and the ease-of-use of the website, where some found it confusing to navigate and others found it intuitive. Main criticisms were leveraged towards the filter feature and it's inoperability as well as concerns over the conversion of the website to a mobile device or differing window sizes. 
 
 ## Meet the Development Team
 * [Marionne Casipit](https://marionne.github.io/)
