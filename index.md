@@ -8,6 +8,7 @@
 * [Milestones](#milestones)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
+* [Community Feedback](#community-feedback)
 * [Development Team](#meet-the-development-team)
 
 ## Overview 
@@ -19,10 +20,7 @@ To provide a intuitive user interface that can provide an efficient system to al
 The system should eventually provide a sign-in system that allows the user to edit their preferences, filter out study spaces to find an appealing location, and receive real time notifications about the current state of study spaces. After the initial development of our website, we hope to add additional features to Cram Connect, including maps information about study spaces and a news feed of the latest updates on users' favorite locations.
 
 ## Galaxy Deployment
-Cram Connect is deployed using Galaxy and be accessed through this [link](http://cram-connect.meteorapp.com/#/), or by pasting the following in the web browser:
-```
-http://cram-connect.meteorapp.com/#/
-```
+Cram Connect is deployed using Galaxy. Due to the expiration of our free trial, our site cannot be accessed through Galaxy at this time. 
 
 ## GitHub Organization
 The GitHub organization for Cram Connect can be accessed [here](https://github.com/cram-connect), or by pasting the following in the web browser:
@@ -64,36 +62,35 @@ The Cram Connect system was not deployed to Galaxy due to the expiration of the 
 ![](images/M3/location.png)
 
 ## User Guide
-Our user guide, currently containing page mockups, provides a breakdown of the Cram Connect website and its proposed page structures.
+Our user guide, provides a breakdown of the Cram Connect website.
 
 ### Landing page
 The landing page is the top-level URL for the Cram Connect website.
-![](images/mockup1/mockup1-landing.jpg)
+![](images/M1/landing.jpg)
 
 ### Sign in
 The user can login in to manage their account and interact with the Cram Connect community.
-![](images/mockup1/mockup1-signIn.jpg)
+![](images/M2/signin.JPG)
 
 ### Register
 The user can create a new account by filling in the appropriate fields.
-![](images/mockup1/mockup1-register.JPG)
+![](images/M2/register.JPG)
 
-### Example Study Location
-The user can take a look at each study location and add notifications.
-![](images/mockup1/mockup1-locationProfile1.jpg)
-![](images/mockup1/mockup1-locationProfile2.jpg)
+### Study Location
+The user can take a look at each study location and find out more information about them.
+![](images/M3/location.png)
 
 ### Search
 The search page will allow each user to filter study spots to find the best study environment.
-![](images/mockup1/mockup1-searchPage.JPG)
+![](images/M3/search.png)
 
 ### Favorites
 User can view the status of their selected favorite locations.
-![](images/mockup1/mockup1-favorites.jpg)
+![](images/M3/favorites.png)
 
 ### User Profile
 The user can edit their profile with their information and preferences.
-![](images/mockup1/mockup1-user.JPG)
+![](images/M2/editProfile.jpg)
 
 ## Developer Guide 
 Our developer guide, will guide the developer into downloading, installing, running, and modifying the system. 
@@ -117,6 +114,9 @@ You can verify that the code obeys our coding standards by running ESLint over t
 ```
 $ meteor npm run lint
 ```
+
+## Community Feedback
+Due to time and our free trial of Galaxy expiring, we were not able to have 5 community members try out our application. 
 
 ## Meet the Development Team
 * [Marionne Casipit](https://marionne.github.io/)
