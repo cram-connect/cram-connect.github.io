@@ -134,6 +134,8 @@ The general community sentiment regarding out website is that the concept and cu
 
 Take a look at some of the responses on this [Google Sheet](https://docs.google.com/spreadsheets/d/1QS23m1Fic11t41OmTutasY6-QqDqSCM_SIn8pZFPwcw/edit?usp=sharing). These responses came from a wide variety of UH Manoa users ranging from music majors to electrical/computer engineers! From 5 responses, our web application was given an average rating of 8.2 out of 10!
 
+If you would also like to join in providing feedback after exploring Cram Connect, please feel free to leave a response in our [Google Form](https://forms.gle/aLxdPqLRGiFaQRbN6).
+
 ## Meet the Development Team
 * [Marionne Casipit](https://marionne.github.io/)
 
