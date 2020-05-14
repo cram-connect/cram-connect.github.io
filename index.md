@@ -36,11 +36,11 @@ https://github.com/cram-connect
 * [M3 Project: Milestone 3](https://github.com/cram-connect/cram-connect/projects/3)
 
 ### Milestone 1
-The Cram Connect system has been deployed to Galaxy. We currently have a landing page, as shown below. It can be accessed at: [http://cram-connect.meteorapp.com/#/](http://cram-connect.meteorapp.com/#/)
+The Cram Connect system has been deployed to Galaxy. We currently have a landing page, as shown below. 
 ![](images/M1/landing.jpg)
 
 ### Milestone 2
-The Cram Connect system has been deployed to Galaxy. We now have a sign in page, register page, a profile page, a location page, and an add location page as shown below. It can be accessed at: [http://cram-connect.meteorapp.com/#/](http://cram-connect.meteorapp.com/#/)
+The Cram Connect system has been deployed to Galaxy. We now have a sign in page, register page, a profile page, a location page, and an add location page as shown below. 
 ![](images/M2/signin.JPG)
 ![](images/M2/register.JPG)
 ![](images/M2/editProfile.jpg)
@@ -48,7 +48,7 @@ The Cram Connect system has been deployed to Galaxy. We now have a sign in page,
 ![](images/M2/addLocation.jpg)
 
 ### Milestone 3
-The Cram Connect system was not deployed to Galaxy due to the expiration of the free trial. We have implemented a search page, and a favorites page. We also updated the add locations page. 
+The Cram Connect system was not deployed to Galaxy due to the expiration of the free trial. We have implemented a search page, a favorites page, and a discover page. We also updated the add locations page. 
 
 ## User Guide
 Our user guide, currently containing page mockups, provides a breakdown of the Cram Connect website and its proposed page structures.
