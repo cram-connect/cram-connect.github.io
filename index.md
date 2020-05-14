@@ -6,14 +6,13 @@
 * [Galaxy Deployment](#galaxy-deployment)
 * [GitHub Organization](#github-organization)
 * [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
 * [Milestones](#milestones)
 * [Developer Guide](#developer-guide)
 * [Community Feedback](#community-feedback)
 * [Development Team](#meet-the-development-team)
 
-## Overview 
-Cram connect a website that will allow students to post and rate study spots throughout the UH Manoa campus and the surrounding areas so that other students become aware of possible study spots. The entry for each location will list hours, capabilities, capacity of the location, and accessibility to different types of students. In addition, there is a “real-time” feature, where students can login and provide time-stamped notifications about the current state of the study space. This can inform other students about whether the space is noisy, or crowded, or even quiet and empty.
+## Overview
+Cram connect a website that will allow students to post and rate study spots throughout the UH Manoa campus and the surrounding areas so that other students become aware of possible study spots. The entry for each location will list hours, capabilities, capacity of the location, and accessibility to different types of students. In the future, Cram Connect would greatly benefit from a “real-time” feature, where students can login and provide time-stamped notifications about the current state of the study space. This would inform other students about whether the space is noisy, or crowded, or even quiet and empty.
 
 ## Goals
 To provide a intuitive user interface that can provide an efficient system to allow students to discover and rate study spots in and around the UH Manoa campus.
@@ -21,7 +20,12 @@ To provide a intuitive user interface that can provide an efficient system to al
 The system should eventually provide a sign-in system that allows the user to edit their preferences, filter out study spaces to find an appealing location, and receive real time notifications about the current state of study spaces. After the initial development of our website, we hope to add additional features to Cram Connect, including maps information about study spaces and a news feed of the latest updates on users' favorite locations.
 
 ## Galaxy Deployment
-Cram Connect is deployed using Galaxy. Due to the expiration of our free trial, our site cannot be accessed through Galaxy at this time. 
+"Cram Connect is deployed using Galaxy. Due to the expiration of our free trial, our site cannot be accessed through Galaxy at this time."
+
+...is what we would normally say. However, we were able to get a friend, outside of our group, to register for a free trial, and we were able to deploy our app via Galaxy. Check it out [here](http://cram-connect.meteorapp.com/#/), or by pasting the following in the web browser:
+```
+http://cram-connect.meteorapp.com/#/
+```
 
 ## GitHub Organization
 The GitHub organization for Cram Connect can be accessed [here](https://github.com/cram-connect), or by pasting the following in the web browser:
@@ -75,11 +79,11 @@ Each milestone project page can be accessed with the links below.
 * [M3 Project: Milestone 3](https://github.com/cram-connect/cram-connect/projects/3)
 
 ### Milestone 1
-The Cram Connect system has been deployed to Galaxy. We currently have a landing page, as shown below. 
+The Cram Connect system has been deployed to Galaxy. We currently have a landing page, as shown below.
 ![](images/M1/landing.jpg)
 
 ### Milestone 2
-The Cram Connect system has been deployed to Galaxy. We now have a sign in page, register page, a profile page, a location page, and an add location page as shown below. 
+The Cram Connect system has been deployed to Galaxy. We now have a sign in page, register page, a profile page, a location page, and an add location page as shown below.
 ![](images/M2/signin.JPG)
 
 ![](images/M2/register.JPG)
@@ -102,18 +106,18 @@ The Cram Connect system was not deployed to Galaxy due to the expiration of the 
 
 ![](images/M3/location.png)
 
-## Developer Guide 
-Our developer guide, will guide the developer into downloading, installing, running, and modifying the system. 
+## Developer Guide
+Our developer guide, will guide the developer into downloading, installing, running, and modifying the system.
 
 First step is to download and [install meteor](https://www.meteor.com/install).
 
-Second, go to [https://github.com/cram-connect/cram-connect](https://github.com/cram-connect/cram-connect) and download a copy Cram Connect. 
+Second, go to [https://github.com/cram-connect/cram-connect](https://github.com/cram-connect/cram-connect) and download a copy Cram Connect.
 
 Third, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
 ```
 $ meteor npm install
 ```
-Fourth, once all the libraries are installed the application can be run with: 
+Fourth, once all the libraries are installed the application can be run with:
 ```
 $ meteor npm run start
 ```
@@ -126,7 +130,9 @@ $ meteor npm run lint
 ```
 
 ## Community Feedback
-The general community sentiment regarding out website is that the concept and current features implemented are effective. There were mixed reactions in regards to the color palette and the ease-of-use of the website, where some found it confusing to navigate and others found it intuitive. Main criticisms were leveraged towards the filter feature and it's inoperability as well as concerns over the conversion of the website to a mobile device or differing window sizes. 
+The general community sentiment regarding out website is that the concept and current features implemented are effective. There were mixed reactions in regards to the color palette and the ease-of-use of the website, where some found it confusing to navigate and others found it intuitive. Main criticisms were leveraged towards the filter feature and it's inoperability as well as concerns over the conversion of the website to a mobile device or differing window sizes.
+
+Take a look at some of the responses on this [Google Sheet](https://docs.google.com/spreadsheets/d/1QS23m1Fic11t41OmTutasY6-QqDqSCM_SIn8pZFPwcw/edit?usp=sharing). These responses came from a wide variety of UH Manoa users ranging from music majors to electrical/computer engineers! From 5 responses, our web application was given an average rating of 8.2 out of 10!
 
 ## Meet the Development Team
 * [Marionne Casipit](https://marionne.github.io/)
