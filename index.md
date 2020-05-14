@@ -42,13 +42,26 @@ The Cram Connect system has been deployed to Galaxy. We currently have a landing
 ### Milestone 2
 The Cram Connect system has been deployed to Galaxy. We now have a sign in page, register page, a profile page, a location page, and an add location page as shown below. 
 ![](images/M2/signin.JPG)
+
 ![](images/M2/register.JPG)
+
 ![](images/M2/editProfile.jpg)
+
 ![](images/M2/locationPage.JPG)
+
 ![](images/M2/addLocation.jpg)
 
 ### Milestone 3
-The Cram Connect system was not deployed to Galaxy due to the expiration of the free trial. We have implemented a search page, a favorites page, and a discover page. We also updated the add locations page. 
+The Cram Connect system was not deployed to Galaxy due to the expiration of the free trial. We have implemented a search page, a favorites page, and a discover page. The add location page has been updated with new inputs. The locations page has been updated with a map feature.  
+![](images/M3/search.png)
+
+![](images/M3/favorites.png)
+
+![](images/M3/discover.png)
+
+![](images/M3/addlocation.png)
+
+![](images/M3/location.png)
 
 ## User Guide
 Our user guide, currently containing page mockups, provides a breakdown of the Cram Connect website and its proposed page structures.
