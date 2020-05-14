@@ -56,7 +56,7 @@ NOTE: The filter on the left side does not currently work, but the search and se
 
 ### Study Location
 The user can take a look at each study location and find out more information about them.
-![](images/M3/location.png)
+![](images/M3/location.jpg)
 
 ### Favorites
 User can view the status of their selected favorite locations.
@@ -104,7 +104,7 @@ The Cram Connect system was not deployed to Galaxy due to the expiration of the 
 
 ![](images/M3/addlocation.png)
 
-![](images/M3/location.png)
+![](images/M3/location.jpg)
 
 ## Developer Guide
 Our developer guide, will guide the developer into downloading, installing, running, and modifying the system.
