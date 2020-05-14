@@ -50,7 +50,7 @@ The user can create a new account by filling in the appropriate fields.
 
 ### Search
 The search page will allow each user to search for study spots to find the best study environment.
-![](images/M3/search.png)
+![](images/M3/search.jpg)
 
 NOTE: The filter on the left side does not currently work, but the search and selection of the cards to go to the location are functional.
 
@@ -60,7 +60,7 @@ The user can take a look at each study location and find out more information ab
 
 ### Favorites
 User can view the status of their selected favorite locations.
-![](images/M3/favorites.png)
+![](images/M3/favorites.jpg)
 
 ### User Profile
 The user can edit their profile with their information and preferences.
@@ -96,9 +96,9 @@ The Cram Connect system has been deployed to Galaxy. We now have a sign in page,
 
 ### Milestone 3
 The Cram Connect system was not deployed to Galaxy due to the expiration of the free trial. We have implemented a search page, a favorites page, and a discover page. The add location page has been updated with new inputs. The locations page has been updated with a map feature.  
-![](images/M3/search.png)
+![](images/M3/search.jpg)
 
-![](images/M3/favorites.png)
+![](images/M3/favorites.jpg)
 
 ![](images/M3/discover.png)
 
