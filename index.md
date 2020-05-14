@@ -28,7 +28,39 @@ The GitHub organization for Cram Connect can be accessed [here](https://github.c
 https://github.com/cram-connect
 ```
 
+## User Guide
+Our user guide, provides a breakdown of the Cram Connect website.
+
+### Landing page
+The landing page is the top-level URL for the Cram Connect website.
+![](images/M1/landing.jpg)
+
+### Sign in
+The user can login in to manage their account and interact with the Cram Connect community.
+![](images/M2/signin.JPG)
+
+### Register
+The user can create a new account by filling in the appropriate fields.
+![](images/M2/register.JPG)
+
+### Study Location
+The user can take a look at each study location and find out more information about them.
+![](images/M3/location.png)
+
+### Search
+The search page will allow each user to filter study spots to find the best study environment.
+![](images/M3/search.png)
+
+### Favorites
+User can view the status of their selected favorite locations.
+![](images/M3/favorites.png)
+
+### User Profile
+The user can edit their profile with their information and preferences.
+![](images/M2/editProfile.jpg)
+
 ## Milestones
+Each milestone project page can be accessed with the links below.
 * [M1 Project: Milestone 1](https://github.com/cram-connect/cram-connect/projects/2)
 * [M2 Project: Milestone 2](https://github.com/cram-connect/cram-connect/projects/1)
 * [M3 Project: Milestone 3](https://github.com/cram-connect/cram-connect/projects/3)
@@ -60,37 +92,6 @@ The Cram Connect system was not deployed to Galaxy due to the expiration of the 
 ![](images/M3/addlocation.png)
 
 ![](images/M3/location.png)
-
-## User Guide
-Our user guide, provides a breakdown of the Cram Connect website.
-
-### Landing page
-The landing page is the top-level URL for the Cram Connect website.
-![](images/M1/landing.jpg)
-
-### Sign in
-The user can login in to manage their account and interact with the Cram Connect community.
-![](images/M2/signin.JPG)
-
-### Register
-The user can create a new account by filling in the appropriate fields.
-![](images/M2/register.JPG)
-
-### Study Location
-The user can take a look at each study location and find out more information about them.
-![](images/M3/location.png)
-
-### Search
-The search page will allow each user to filter study spots to find the best study environment.
-![](images/M3/search.png)
-
-### Favorites
-User can view the status of their selected favorite locations.
-![](images/M3/favorites.png)
-
-### User Profile
-The user can edit their profile with their information and preferences.
-![](images/M2/editProfile.jpg)
 
 ## Developer Guide 
 Our developer guide, will guide the developer into downloading, installing, running, and modifying the system. 
