@@ -10,7 +10,7 @@
 * [Developer Guide](#developer-guide)
 * [Development Team](#meet-the-development-team)
 
-## Overview
+## Overview 
 Cram connect a website that will allow students to post and rate study spots throughout the UH Manoa campus and the surrounding areas so that other students become aware of possible study spots. The entry for each location will list hours, capabilities, capacity of the location, and accessibility to different types of students. In addition, there is a “real-time” feature, where students can login and provide time-stamped notifications about the current state of the study space. This can inform other students about whether the space is noisy, or crowded, or even quiet and empty.
 
 ## Goals
@@ -36,64 +36,64 @@ https://github.com/cram-connect
 * [M3 Project: Milestone 3](https://github.com/cram-connect/cram-connect/projects/3)
 
 ### Milestone 1
-The Cram Connect system has been deployed to Galaxy. We currently have a landing page, as shown below. It can be accessed at: [http://cram-connect.meteorapp.com/#/](http://cram-connect.meteorapp.com/#/)
+The Cram Connect system has been deployed to Galaxy. We currently have a landing page, as shown below. 
 ![](images/M1/landing.jpg)
 
 ### Milestone 2
-The Cram Connect system has been deployed to Galaxy. We now have a sign in page, register page, a profile page, a location page, and an add location page as shown below. It can be accessed at: [http://cram-connect.meteorapp.com/#/](http://cram-connect.meteorapp.com/#/)
+The Cram Connect system has been deployed to Galaxy. We now have a sign in page, register page, a profile page, a location page, and an add location page as shown below. 
 ![](images/M2/signin.JPG)
 ![](images/M2/register.JPG)
 ![](images/M2/editProfile.jpg)
 ![](images/M2/locationPage.JPG)
 ![](images/M2/addLocation.jpg)
 
+### Milestone 3
+The Cram Connect system was not deployed to Galaxy due to the expiration of the free trial. We have implemented a search page, a favorites page, and a discover page. We also updated the add locations page. 
+
 ## User Guide
-Our user guide, contains the current pages and functionality of our Cram Connect web application.
+Our user guide, currently containing page mockups, provides a breakdown of the Cram Connect website and its proposed page structures.
 
 ### Landing page
-The landing page is the top-level URL for the Cram Connect website. Users can opt to sign in using the user icon button located at the top right corner of the screen.
-![](images/M1/landing.jpg)
+The landing page is the top-level URL for the Cram Connect website.
+![](images/mockup1/mockup1-landing.jpg)
 
 ### Sign in
-The user can log in to manage their account and interact with the Cram Connect community. If the user does not have an account, they can opt to register for an account with the Register Now button.
-![](images/M2/signin.JPG)
+The user can login in to manage their account and interact with the Cram Connect community.
+![](images/mockup1/mockup1-signIn.jpg)
 
 ### Register
 The user can create a new account by filling in the appropriate fields.
-![](images/M2/register.JPG)
+![](images/mockup1/mockup1-register.JPG)
 
-### Random Study Location
-The user can take a look at a random study location by clicking *Random Location* in the NavBar. This is a great way to learn about new places that users may be interested in, to truly find a study spot that is a perfect fit.
-![](images/M2/locationPage.JPG)
+### Example Study Location
+The user can take a look at each study location and add notifications.
+![](images/mockup1/mockup1-locationProfile1.jpg)
+![](images/mockup1/mockup1-locationProfile2.jpg)
 
-### Add Location
-Currently, users are able to add new locations using *Add a Spot* located in the NavBar. This may be restricted to administrators in the future.
-![](images/M2/addLocation.jpg)
-
-### User Profile
-The user can edit their profile with their information and preferences. They are able to edit their name, major, and image. In addition, they can choose their favorite study spots and top study spot qualities from a MultiSelectField with lists of the currently available spots and qualities.
-![](images/M2/editProfile.jpg)
-
-### In the Works: Search
-In the future, the search page will allow each user to filter study spots to find the best study environment. The following picture is a mockup.
+### Search
+The search page will allow each user to filter study spots to find the best study environment.
 ![](images/mockup1/mockup1-searchPage.JPG)
 
-### In the Works: Favorites
-Soon, users will be able to view the status of their selected favorite locations. We plan to implement a real-time notification feature. This will later serve as the Home page for users. The following picture is a mockup.
+### Favorites
+User can view the status of their selected favorite locations.
 ![](images/mockup1/mockup1-favorites.jpg)
 
-## Developer Guide
-Our developer guide, will guide the developer into downloading, installing, running, and modifying the system.
+### User Profile
+The user can edit their profile with their information and preferences.
+![](images/mockup1/mockup1-user.JPG)
+
+## Developer Guide 
+Our developer guide, will guide the developer into downloading, installing, running, and modifying the system. 
 
 First step is to download and [install meteor](https://www.meteor.com/install).
 
-Second, go to [https://github.com/cram-connect/cram-connect](https://github.com/cram-connect/cram-connect) and download a copy Cram Connect.
+Second, go to [https://github.com/cram-connect/cram-connect](https://github.com/cram-connect/cram-connect) and download a copy Cram Connect. 
 
 Third, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
 ```
 $ meteor npm install
 ```
-Fourth, once all the libraries are installed the application can be run with:
+Fourth, once all the libraries are installed the application can be run with: 
 ```
 $ meteor npm run start
 ```
