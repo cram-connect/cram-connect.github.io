@@ -22,7 +22,7 @@ The system should eventually provide a sign-in system that allows the user to ed
 ## Galaxy Deployment
 "Cram Connect is deployed using Galaxy. Due to the expiration of our free trial, our site cannot be accessed through Galaxy at this time."
 
-...is what we would normally say. However, we were able to get a friend, outside of our group, to register for a free trial, and we were able to deploy our app via Galaxy. Check it out [here](http://cram-connect.meteorapp.com/#/), or by pasting the following in the web browser:
+...is what we would normally say. However, we were able to get a friend, outside of our group, to register for a free trial, and we were able to deploy our app via Galaxy again. Check it out [here](http://cram-connect.meteorapp.com/#/), or by pasting the following in the web browser:
 ```
 http://cram-connect.meteorapp.com/#/
 ```
@@ -46,7 +46,7 @@ The user can login in to manage their account and interact with the Cram Connect
 
 ### Register
 The user can create a new account by filling in the appropriate fields.
-![](images/M2/register.JPG)
+![](images/M3/register.jpg)
 
 ### Search
 The search page will allow each user to search for study spots to find the best study environment.
